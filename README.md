@@ -7,3 +7,5 @@ D3 está diseñado para funcionar con estándares web comunes, es decir, HTML, C
 D3 admite muchos tipos diferentes de formatos de datos de entrada. Luego, mediante sus potentes métodos integrados, puede transformar esos datos en diferentes gráficos y mapas.
 
 En este curso de Visualización de datos con D3, se trabajará con datos para crear diferentes gráficos, gráficos flotantes y otros ingredientes para crear visualizaciones de datos dinámicas y atractivas.
+
+Link al curso: https://www.freecodecamp.org/learn/data-visualization/
